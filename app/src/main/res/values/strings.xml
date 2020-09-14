@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="text_temp">Text Temp</string>
+    <string name="description">Description</string>
+    <string name="humidity">Humidity</string>
+    <string name="todo">TODO</string>
+    <string name="text_Temp" />
+</resources>
